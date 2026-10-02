@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-11.xhtml">
+		<ignore code="y-007">
+			<line>15</line>
+			<reason>The apostrophe indicates the abbreviated term for "university"; the abbreviation has been wrapped in an abbr tag.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
